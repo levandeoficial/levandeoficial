@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @levandeoficial
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Blockchain, Defi, Smart Contracts and NFTs
-- 💞️ I’m looking to collaborate on Blockchain projects
+- 👀 I’m an auto bot
